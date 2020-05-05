@@ -14,6 +14,7 @@ script:
   - tar xvf v${XCUBE_VIEWER_VERSION}.tar.gz
   - cp .env xcube-viewer-${XCUBE_VIEWER_VERSION}
   - cd xcube-viewer-${XCUBE_VIEWER_VERSION}
+  - echo Start building
   - yarn install
   - yarn run build
 
