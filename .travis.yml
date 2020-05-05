@@ -7,7 +7,7 @@ cache:
     - node_modules
 
 env:
-  - XCUBE_VIEWER_VERSION="0.4.0"
+  - XCUBE_VIEWER_VERSION="0.4.2"
 
 script:
   - wget https://github.com/dcs4cop/xcube-viewer/archive/v${XCUBE_VIEWER_VERSION}.tar.gz
