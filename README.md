@@ -2,7 +2,7 @@
 
 # ESDL xcube-viewer
 
-A simple viewer component for Xcube server.
+A simple viewer component for Xcube server adapted to run with ESDL branding. The site is copied from the xcube-viewer master repository and deployed to S3.
 
 ![xcube-viewer](./doc/xcube-viewer.jpg)
 
